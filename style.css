@@ -1,0 +1,210 @@
+body{
+    font-family: 'Dosis', sans-serif;
+    background-color: #F2F2F2;
+}
+input{
+    font-size: 20px;
+}
+.headline{
+    background-color: #D9BAC0;
+    padding: 3.5vh 0 3.5vh 4vw;
+    color: #0B0C0D;
+    font-size: 7vh;
+    margin: -3vh -0.7vh 0 -1.5vw;
+}
+.textbox{
+    color: #F2F2F2;
+    font-size: 4vh;
+    background-color: #4D5673;
+    width: 70%;
+    padding: 4vh 0 4vh 6vw;
+    margin: 4vh 0px 2vh -0.7vw;
+}
+.create{
+    background-color: #9CA3B9;
+    text-align: center;
+    width: 50%;
+    border-radius: 4vh;
+    margin-top: 4vh;
+    padding: 2vh 2vw 2vh 2vw;
+    font-size: 3.8vh;
+    border: none;
+    font-family: 'Dosis', sans-serif;
+}
+.createButton{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.navcontainer{
+    margin: 3.5vh 0.5vw 0 12vw;
+}
+.link{
+    text-decoration: none;
+}
+.nav{
+    border-bottom: 1.5px solid #0B0C0D;
+    color: #0B0C0D;
+    text-align: right;
+    font-size: 3.25vh;
+    padding: 1.5vh;
+}
+.text{
+    font-size: 25px;
+    color:#0B0C0D;
+    margin: 50px 0px 0px 20px;
+}
+.container2{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+.numbers{
+    font-size: 100px;
+    color: #0B0C0D;
+}
+.textnumbers{
+    font-size: 25px;
+    color: #0B0C0D;
+}
+.text2{
+    font-size: 25px;
+    color:#0B0C0D;
+    margin: 70px 0px 0px 20px;
+}
+.personalheading{
+    font-size: 50px;
+    color: #0B0C0D;
+    margin-top: 50px;
+}
+.nav2{
+    display: flex;
+    flex-direction: column;
+}
+.contentpd{
+    width: 80%;
+    margin-left: 50px;
+}
+.navbuttons{
+    border: none;
+    font-family: 'Dosis', sans-serif;
+    color: white;
+    font-size: 30px;
+    height: 101px;
+    width: 300px;
+}
+.pd{
+    background-color: #EBCBD1;
+    margin-top: -8px;
+}
+.ex{
+    background-color: #E0C0C6;
+}
+.ed{
+    background-color: #D6B0B8;
+}
+.sk{
+    background-color: #CCA7AE;
+}
+.la{
+    background-color: #C69FA7;
+}
+.co{
+    background-color: #BB989F;
+}
+.sg{
+    background-color: #B39399;
+}
+.optional{
+    font-size: 20px;
+    color: #0B0C0D;
+    margin-left: -40px;
+    margin-top: 50px;
+}
+.headingspd{
+    font-size: 25px;
+    color: #0B0C0D;
+    margin-top: 30px;
+}
+.lastname{
+    margin-left: 296px;
+}
+.input{
+    height: 25px;
+    width: 350px;
+    margin-top: 5px;
+}
+.lastnameinput{
+    margin-left: 50px;
+}
+.placeofbirth{
+    margin-left: 282px;
+}
+.containerpicture{
+    margin: 50px 0 0 70px;
+    display: table;
+}
+.picture{
+    display: table-cell;
+    height: 280px;
+    width: 200px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: white;
+    vertical-align: middle;
+    font-size: 25px;
+}
+.containeraddress{
+    display: flex;
+    flex-direction: row;
+    margin-top: -25px;
+}
+.inputstreet{
+    height: 25px;
+    width: 500px;
+    margin-top: 5px;
+}
+.inputnsd{
+    height: 25px;
+    width: 118px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.headingnumber{
+    margin-left: 495px;
+}
+.headings{
+    margin-left: 94px;
+}
+.headingd{
+    margin-left: 105px;
+}
+.inputpc{
+    height: 25px;
+    width: 200px;
+    margin-top: 5px;
+}
+.inputpl{
+    height: 25px;
+    width: 356px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.headingpor{
+    margin-left: 142px;
+}
+.headinglln{
+    margin-left: 232px;
+}
+.inputpe{
+    height: 25px;
+    width: 485px;
+    margin-top: 5px;
+}
+.headinge{
+    margin-left: 393px;
+}
